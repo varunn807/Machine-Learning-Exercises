@@ -16,3 +16,5 @@ Exercise7_SVM : Applied SVM to classify cancer type using Wisconsin's dataset.
 Exercise8_DT_NN: Applied Decision trees,neural networks and AdaBoost on Iris dataset for classification.
 
 Exercise9_UnsupervisedLearning: Applied Dimenionality reduction and K-means clustering on Wisconson breast cancer dataset. 
+
+Classification_DM: Applied PCA,LDA,t-SNE,UMAP and K-menas clustering on a Major League Baseball dataset from fangraphs.com. 
